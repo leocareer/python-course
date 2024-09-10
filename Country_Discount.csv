@@ -1,16 +1,16 @@
-Ship Country,Discount
-Austria,18.35
-Belgium,12.14
-Brazil,1.89
-Finland,18.92
-France,18.49
-Germany,19.24
-Ireland,17.89
-Italy,0.0
-Mexico,4.72
-Spain,1.47
-Sweden,3.58
-Switzerland,6.27
-UK,4.95
-USA,9.27
-Venezuela,0.0
+Ship Country,Mean Amo Net
+Austria,682.58
+Belgium,429.46
+Brazil,198.25
+Finland,669.08
+France,533.51
+Germany,555.04
+Ireland,632.77
+Italy,43.2
+Mexico,192.95
+Spain,126.28
+Sweden,206.61
+Switzerland,239.73
+UK,253.45
+USA,341.45
+Venezuela,86.4
